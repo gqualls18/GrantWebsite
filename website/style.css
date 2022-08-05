@@ -27,6 +27,16 @@
   line-height: 30pt;
 }
 
+.containerProject {
+  text-align: left;
+  vertical-align: middle;
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  transform: translate(-20%, 0%);
+  line-height: 30pt;
+}
+
 
 .blue {
   color: #226fd5;
@@ -407,4 +417,15 @@ a[href^="mailto:"] {
     transform: translate(-5%, 0%);
     line-height: 20pt;
   }
+
+  .containerProject {
+    text-align: left;
+    vertical-align: middle;
+    position: absolute;
+    top: 11%;
+    left: 10%;
+    transform: translate(-5%, 0%);
+    line-height: 20pt;
+  }
+
 }

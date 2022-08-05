@@ -12,7 +12,7 @@
 
     <?php include "includes/header.php" ?>
 
-    <div class="containerAbout"> 
+    <div class="containerProject"> 
         <div class="title">
             Projects
         </div>
@@ -25,6 +25,13 @@
             <br>
             <button class="resume" onclick="location.href= 'https://github.com/ORNL-AMO/ORNL-Weather';">Show Project</button>
             <br>
+            <br>Personal Website
+            <br>Objective: Develop a website to display information about myself
+            <br>I started from scratch and created this website
+            <br>Result: Created a fully functioning website to display my skills
+            <br>
+            <button class="resume" onclick="location.href= 'https://github.com/gqualls18/GrantWebsite' ;">Show Project</button>
+
             
 
             
