@@ -4,9 +4,10 @@ About:
 This is a personal website I created to display my acheivments and talents.
 
 
-Dependencies:
 
-PHP
+Dependencies:PHP
+
+
 
 Run:
 
