@@ -38,7 +38,7 @@ jobs:
           # Upload entire repository
           path: '.'
       - name: Run
-        run: php -S localhost:8000 -t website
+        run: php -S gqualls18.github.io -t website
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@main
